@@ -1,0 +1,101 @@
+serial,type,student_no,gender,hour,days,class,subjects,location,background,institute,    offer_date,salary
+1,Online,1,M/F,2,4,HSC,3,Dhaka,BM,BUET,  24/08/2021,6000
+2,Offline,1,F,2,4,O Level,3,"Mirpur, Dhaka",EM,Any,  24/08/2021,10000
+3,Offline,1,F,2,3,O Level,1,"Gulshan, Dhaka",EM,Any,  24/08/2021,4000
+4,Offline,1,F,2,4,Std. 9,2,"Gulshan, Dhaka",EM,Any,  24/08/2021,8000
+5,Offline,1,M,2,4,Std. 8,3,"Mirpur, Dhaka",EM,Any,  24/08/2021,8000
+6,Offline,1,M,2,3,O Level,2,"Uttara, Dhaka",EM,Any,  24/08/2021,6000
+7,Offline,1,M,2,3,Std.8,4,"Mirpur, Dhaka",EM,BUET,  24/08/2021,7500
+8,Offline,1,F,1,5,Std. 6,3,"Uttara, Dhaka",EM,Any,  24/08/2021,5000
+9,Offline,1,M,1,5,Std. 7,2,"Raer Bazar, Dhaka",EM,Any,  24/08/2021,5000
+10,Offline,1,M,2,3,A Level,2,"Kolabagan, Dhaka",EM,Any,  24/08/2021,6000
+11,Offline,1,F,2,3,Class 11,2,"Bashundhara, Dhaka",BM,Any,  25/08/2021,5000
+12,Offline,1,M,1,3,Class 11,1,"Jatrabari, Dhaka",BM,Any,  25/08/2021,2000
+13,Offline,1,F,1,3,Class 5,1,"Badda, Dhaka",EM,Any,  25/08/2021,3000
+14,Offline,1,F,2,3,Class 10,2,"Saidabad, Dhaka",BM,Any,  25/08/2021,4000
+15,Offline,1,M,2,3,Class 10,3,"Malibagh, Dhaka",BM,DU,  25/08/2021,5000
+16,Offline,1,M/F,1,3,Class 11,2,"Malibagh, Dhaka",BM,SSMC,  25/08/2021,5000
+17,Offline,1,F,2,4,Class 11,5,"Mohammadpur, Dhaka",BM,Public,  25/08/2021,7000
+18,Offline,1,F,1,4,Class 10,1,"Shantinagar, Dhaka",BM,Public,  25/08/2021,4000
+19,Offline,1,M,2,3,Admission,4,"Uttara, Dhaka",BM,DU,26/08/2021,7000
+20,Offline,1,F,2,5,Std. 4,3,"Dhanmondi, Dhaka",BM,DU,26/08/2021,6000
+21,Offline,1,F,2,4,Class 11,2,"Mohammadpur, Dhaka",BM,Any,26/08/2021,6000
+22,Offline,1,F,1,5,Class 10,3,"Green Road, Dhaka",BM,DU,26/08/2021,4000
+23,Offline,1,F,2,3,Class 11,3,"Azimpur, Dhaka",BM,BUET,26/08/2021,7000
+24,Offline,1,M,2,3,Admission,3,"Uttara, Dhaka",BM,DU,26/08/2021,6000
+25,Offline,1,M,2,3,Admission,3,"ECB Chottor, Dhaka",BM,DU,26/08/2021,6000
+26,Offline,1,F,2,3,Class 11,3,"Khilgaon, Dhaka",BM,DU,  28/08/2021,6000
+27,Offline,1,M,2,4,Admission,3,"Shyamoli, Dhaka",BM,DU,  28/08/2021,7000
+28,Online,1,M,2,4,Class 11,2,Dhaka,BM,Public,  28/08/2021,5000
+29,Online,1,F,1,6,Class 5,4,Dhaka,EM,Public,  29/08/2021,6000
+30,Offline,1,M,2,5,Class 10,4,"Uttara, Dhaka",EM,Any,  29/08/2021,10000
+31,Offline,1,M,2,3,Class 4,1,"Baridhara, Dhaka",EM,Any,  29/08/2021,5000
+32,Offline,1,M,2,3,Class 10,4,"Shewrapara, Dhaka",BM,BUET,  29/08/2021,8000
+33,Offline,1,F,2,3,Std. 7,5,"Baridhara, Dhaka",EM,Any,  29/08/2021,7000
+34,Offline,1,F,2,3,Class 8,3,"Lalbagh, Dhaka",BM,DU/Medical,  29/08/2021,5000
+35,Offline,1,F,2,4,Class 7,5,"Mirpur, Dhaka",BM,DU/JU,  29/08/2021,6000
+36,Offline,1,F,2,5,Std. 1,5,Chittagong,EM,Any,  29/08/2021,6000
+37,Offline,2,F,2,3,Class 9 & 6,6,"Dhanmondi, Dhaka",BM,BUET,  29/08/2021,12000
+38,Offline,1,F,2,4,Class 9,3,"Agrabad, Chittagong",EM,Any,  29/08/2021,6000
+39,Offline,1,F,1,3,Std. 2,5,"Nirjhor Cant, Dhaka",EM,Any,  29/08/2021,3000
+40,Offline,2,F,1,5,Class 10 & 6,7,"Sunamganj, Sylhet",BM,Any,  29/08/2021,5000
+41,Offline,1,F,1,5,Class 9,5,"Khilgaon, Dhaka",BM,Any,  29/08/2021,4000
+42,Offline,1,M/F,2,5,A Level,1,"Farmgate, Dhaka",EM,Any,  29/08/2021,6000
+43,Offline,1,F,3,4,A Level,4,"Uttara, Dhaka",BM,Any,  29/08/2021,15000
+44,Offline,1,F,2,3,Class 2,1,"Mirpur, Dhaka",BM,Any,  29/08/2021,3000
+45,Offline,1,F,1,2,A Level,2,"Mohammadpur, Dhaka",EM,Any,01/09/2021,4000
+46,Offline,1,F,1,4,Class 10,5,"Mugdha, Dhaka",BM,Any,02/09/2021,5000
+47,Offline,1,F,2,4,Class 8,3,"Banani, Dhaka",EM,Any,02/09/2021,10000
+48,Offline,1,F,2,4,Class 8,4,"Banani, Dhaka",EM,Any,02/09/2021,8000
+49,Offline,1,M,2,4,O Level,4,"Banasree, Dhaka",EM,Any,02/09/2021,6000
+50,Offline,1,F,2,4,Std. 9,3,"Banasree, Dhaka",EM,Any,02/09/2021,6000
+51,Offline,1,F,1,5,HSC,2,"Mohammadpur, Dhaka",BM,DU,02/09/2021,5000
+52,Offline,1,F,2,4,Std. 1,5,"Nikunjo, Dhaka",EM,Any,02/09/2021,6000
+53,Offline,1,F,2,4,Std. 4,5,"Agargaon, Dhaka",EM,Any,02/09/2021,6000
+54,Offline,1,F,2,5,Class 5,2,"Uttara, Dhaka",BM,DU,02/09/2021,6000
+55,Offline,1,M,2,4,A Level,3,"Paltan, Dhaka",EM,Any,02/09/2021,7000
+56,Offline,1,M,1,4,O Level,1,"Mirpur, Dhaka",EM,Any,02/09/2021,4000
+57,Offline,1,F,1,4,Class 4,5,"Mirpur, Dhaka",EM,Any,02/09/2021,5000
+58,Offline,1,F,2,2,HSC,1,"Uttara, Dhaka",BM,Any,02/09/2021,4000
+59,Offline,1,F,1,5,A Level,1,"Farmgate, Dhaka",EM,Any,02/09/2021,6000
+60,Offline,1,M,1,5,Class 1,5,"Banasree, Dhaka",EM,Any,02/09/2021,6000
+61,Offline,1,F,1,4,Class KG,3,"Jurain, Dhaka",EM,Any,02/09/2021,3000
+62,Offline,1,M,2,5,Class 10,4,"Uttara, Dhaka",EM,Any,02/09/2021,10000
+63,Offline,1,F,2,4,Class 7,8,"Mogbazar, Dhaka",EV,DU,02/09/2021,6000
+64,Offline,1,F,1,4,Class 3,5,"Mohakhali, Dhaka",EV,Any,02/09/2021,4000
+65,Offline,1,F,2,4,Class 8,3,"Banani, Dhaka",EM,Any,02/09/2021,9000
+66,Online,2,M,1,3,HSC,2,Dhaka,EV,Any,03/09/2021,5000
+67,Offline,1,F,2,2,A level,2,"Mohammadpur, Dhaka",EM,Any,03/09/2021,4000
+68,Offline,1,F,1,5,Class 1,5,"Banasree, Dhaka",EM,Any,03/09/2021,6000
+69,Offline,1,F,1,4,Class 4,7,"Baridhara, Dhaka",EM,Any,03/09/2021,6000
+70,Offline,1,F,1,4,Pre-school,3,"Baridhara, Dhaka",EM,Any,04/09/2021,3000
+71,Offline,1,M,1,3,HSC,2,"RayerBagh, Dhaka",BM,Any,04/09/2021,6000
+72,Offline,1,F,1,4,Class 10,5,"Banasree, Dhaka",BM,Any,04/09/2021,5500
+73,Offline,1,M/F,1,3,Class  2,5,"Contonment, Dhaka",EM,Any,04/09/2021,3000
+74,Offline,1,F,1,4,Pre-school,5,"Rajabagh, Dhaka",EM,Any,04/09/2021,3000
+75,Offline,1,F,1,4,Class 5,7,"Mirpur, Dhaka",BM,Any,04/09/2021,5000
+76,Offline,1,M,1,3,HSC,3,"Mugda, Dhaka",BM,Any,04/09/2021,5000
+77,Offline,1,F,1,4,Class 9,5,"Badda, Dhaka",EV,Any,04/09/2021,6000
+78,Offline,1,F,1,5,Class 4,5,"Mogbazar, Dhaka",EV,Any,04/09/2021,5000
+79,Offline,1,F,1,4,Class 5,3,"Dhanmondi, Dhaka",BM,Any,04/09/2021,4000
+80,Offline,1,F,1,4,Class 3,5,"Mohakhali, Dhaka",EV,Any,04/09/2021,4000
+81,Online,1,M/F,2,4,Class 11,1,Dhaka,BM,Any,04/09/2021,2000
+82,Offline,2,F,1,4,Class 3,5,"Lalbagh, Dhaka",EM,Any,04/09/2021,6500
+83,Offline,2,F,2,3,Class 9,6,"Dhanmondi, Dhaka",EM,BUET,04/09/2021,12000
+84,Offline,1,F,1,4,Class 9,4,"Banasree, Dhaka",BM,Any,04/09/2021,5000
+85,Online,2,M/F,1,3,HSC,2,Dhaka,EV,DU,04/09/2021,5000
+86,Online,1,M/F,2,4,HSC,3,Dhaka,EV,Any,04/09/2021,3000
+87,Offline,1,M/F,2,4,Class 7,7,"Eskaton, Dhaka",BM,Any,04/09/2021,7000
+88,Offline,1,F,1,5,Class 3,5,"kakrail, Dhaka",EM,Any,04/09/2021,5000
+89,Online,1,F,1,3,HSC,2,Dhaka,BM,Any,04/09/2021,3000
+90,Offline,1,F,1,4,Pre-school,3,"Nikunja, Dhaka",BM,Any,05/09/2021,4000
+91,Online,1,F,2,5,Class 3,5,Dhaka,EM,Any,05/09/2021,5000
+92,Online,1,M/F,2,4,HSC,3,Dhaka,EV,Any,05/09/2021,3000
+93,Offline,1,F,1,5,Pre-school,3,"Basundhara, Dhaka",BM,Any,05/09/2021,3000
+94,Offline,1,F,1,4,KG-1,4,"Motijheel, Dhaka",EM,Any,05/09/2021,4000
+95,Offline,1,F,1,5, Class 5,5,"Banani, Dhaka",BM,Any,05/09/2021,5000
+96,Offline,1,F,1,4,Class 7,1,"shantibagh, Dhaka",BM,Any,05/09/2021,3000
+97,Online,1,F,2,3, Class 8,1,Dhaka,EM,Any,05/09/2021,3000
+98,Online,1,F,2,3,Class 8,2,Dhaka,EM,Any,05/09/2021,5000
+99,Offline,1,F,2,3,Class 4,4,"Basabo, Dhaka",BM,DU,05/09/2021,6000
+100,Online,1,F,2,3,Admission,4,Dhaka,BM,Any,10/1/2021,8000
